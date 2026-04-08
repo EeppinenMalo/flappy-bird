@@ -1,0 +1,6 @@
+# Prevent committing full Godot project
+.godot/
+.import/
+*.tscn
+*.gd
+project.godot
